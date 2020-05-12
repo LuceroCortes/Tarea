@@ -1,0 +1,23 @@
+{
+  "name": "npmexpress",
+  "version": "0.1.0",
+  "description": "Mi primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "env FORCE_COLOR=1 node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuceroCortes/Tarea.git"
+  },
+  "author": "Guadalupe Lucero Leyva Cortés",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/LuceroCortes/Tarea/issues"
+  },
+  "homepage": "https://github.com/LuceroCortes/Tarea#readme"
+}
