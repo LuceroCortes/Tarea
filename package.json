@@ -14,7 +14,7 @@
   "author": "Guadalupe Lucero Leyva Cortés",
   "license": "MIT",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.18.2"
   },
   "bugs": {
     "url": "https://github.com/LuceroCortes/Tarea/issues"
